@@ -36,6 +36,13 @@
 <img src="https://user-images.githubusercontent.com/111955215/187031388-43e5de37-038a-4a19-b975-06f9cf679f13.png" width="600">
 </div>
 
+TLR受体的激活主要由两种下游通路，左边是激活NF-kB,产生炎性细胞因子；右者是产生一类干扰素IFN
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/a8c341a8-e91c-4f4e-a5ea-89e67e7243d5" width="600">
+</div>
+
+
 ### 适应性免疫（Adaptive Immunity）=第三道屏障：
 
 适应性免疫是针对特定病原体的高度特异性免疫反应，它需要一定时间来发挥作用，但具有长期的记忆性。
