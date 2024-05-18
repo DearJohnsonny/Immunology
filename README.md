@@ -45,10 +45,17 @@ TLR受体的激活主要由两种下游通路，左边是激活NF-kB,产生炎�
 下图是经典的STING通路和炎症小体的产生
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/ed2dcb4e-7152-4285-a992-f6adf7d48b41" width="400">
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/ed2dcb4e-7152-4285-a992-f6adf7d48b41" width="600">
 </div>
 
+#### innate immunity的其他components
+* Epithelial Barriers
+* Phagocytes: Neutrophils and Monocytes/Macrophages. The two types of circulating phagocytes, neutrophils and monocytes, are blood cells that are recruited to sites of infection, where they recognize and ingest 
+microbes for intracellular killing
 
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/db90ab8d-7722-4715-ae56-4b12f4f2d821" width="600">
+</div>
 
 ### 适应性免疫（Adaptive Immunity）=第三道屏障：
 
