@@ -23,6 +23,17 @@
 * 所有innate immunity的受体在所有细胞中都由相同的基因编码
 * The innate immune system does not react against healthy cells
 * 主要是用来对抗microbe infection
+
+#### innate immunity的受体
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/275825bf-f991-4444-97c2-0ebb6ea4ec1a" width="600">
+</div>
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187031388-43e5de37-038a-4a19-b975-06f9cf679f13.png" width="600">
+</div>
+
 ### 适应性免疫（Adaptive Immunity）=第三道屏障：
 
 适应性免疫是针对特定病原体的高度特异性免疫反应，它需要一定时间来发挥作用，但具有长期的记忆性。
