@@ -1,5 +1,5 @@
 # Basic theory
-## 一、二、三类免疫
+## 人体的三道免疫屏障
 是指免疫系统的三种主要防御方式，分别是先天免疫、适应性免疫和被动免疫。
 
 ### 物理和化学屏障：
@@ -23,3 +23,5 @@
 <div align=center>
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/d4a4242c-35bc-4632-ad37-9b83418f9ebb" width="600">
 </div>
+
+上图为innate immunity和adaptive immunity的对照
