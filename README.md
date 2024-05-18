@@ -42,6 +42,13 @@ TLR受体的激活主要由两种下游通路，左边是激活NF-kB,产生炎�
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/a8c341a8-e91c-4f4e-a5ea-89e67e7243d5" width="400">
 </div>
 
+下图是经典的STING通路和炎症小体的产生
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/ed2dcb4e-7152-4285-a992-f6adf7d48b41" width="400">
+</div>
+
+
 
 ### 适应性免疫（Adaptive Immunity）=第三道屏障：
 
