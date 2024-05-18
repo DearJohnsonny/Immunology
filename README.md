@@ -33,13 +33,13 @@
 在细胞质中，NLR、RLR和CDS用于检测microbe的infection,而在endosome和membrane上，TLR检测病原体，其中endosome中的TLR主要检测microbe的基因（如下）
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187031388-43e5de37-038a-4a19-b975-06f9cf679f13.png" width="200">
+<img src="https://user-images.githubusercontent.com/111955215/187031388-43e5de37-038a-4a19-b975-06f9cf679f13.png" width="400">
 </div>
 
 TLR受体的激活主要由两种下游通路，左边是激活NF-kB,产生炎性细胞因子；右者是产生一类干扰素IFN
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/a8c341a8-e91c-4f4e-a5ea-89e67e7243d5" width="200">
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/a8c341a8-e91c-4f4e-a5ea-89e67e7243d5" width="400">
 </div>
 
 
