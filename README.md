@@ -36,10 +36,10 @@
 <img src="https://user-images.githubusercontent.com/111955215/187031388-43e5de37-038a-4a19-b975-06f9cf679f13.png" width="400">
 </div>
 
-TLR受体的激活主要由两种下游通路，左边是激活NF-kB,产生炎性细胞因子；右者是产生一类干扰素IFN
+TLR受体的激活主要由两种下游通路，左边是激活NF-kB,产生炎性细胞因子；右者是产生一类干扰素IFN，产生后分泌，其他细胞接受信号后开始提前抗病毒响应
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/a8c341a8-e91c-4f4e-a5ea-89e67e7243d5" width="400">
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/a10c8bd3-eb08-4ef3-8a9b-a5f229cfbc72" width="600">
 </div>
 
 下图是经典的STING通路和炎症小体的产生
