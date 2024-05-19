@@ -79,6 +79,17 @@ Activating and inhibitory receptors of natural killer (NK) cells.
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/ca86daa2-0721-49d0-8498-7c57f542c966" width="600">
 </div>
 
+##### 补体系统 Complement system
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/133c61f7-f7cc-499a-9c3e-e97e419b4108" width="600">
+</div>
+
+#### innate immunity的cytokine
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/66f8bba5-f52b-4bc4-8709-6b20bee7853e" width="600">
+</div>
 
 ### 适应性免疫（Adaptive Immunity）=第三道屏障：
 
