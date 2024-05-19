@@ -70,7 +70,7 @@ mature to form macrophages, and are activated locally. In fetal life, precursors
 Functions of natural killer (NK) cells.
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/4bb46f96-d451-4925-8d8a-e9f1ba6a6f72" width="600">
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/4bb46f96-d451-4925-8d8a-e9f1ba6a6f72" width="300">
 </div>
 
 Activating and inhibitory receptors of natural killer (NK) cells.
