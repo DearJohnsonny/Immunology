@@ -49,13 +49,36 @@ TLR受体的激活主要由两种下游通路，左边是激活NF-kB,产生炎�
 </div>
 
 #### innate immunity的其他components
-* Epithelial Barriers
-* Phagocytes: Neutrophils and Monocytes/Macrophages. The two types of circulating phagocytes, neutrophils and monocytes, are blood cells that are recruited to sites of infection, where they recognize and ingest 
-microbes for intracellular killing
+##### Phagocytes: Neutrophils and Monocytes/Macrophages. 
+
+The two types of circulating phagocytes, neutrophils and monocytes, are blood cells that are recruited to sites of infection, where they recognize and ingest microbes for intracellular killing
 
 <div align=center>
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/db90ab8d-7722-4715-ae56-4b12f4f2d821" width="600">
 </div>
+
+
+**Maturation of mononuclear phagocytes.** In the steady state in adults, and during inflammatory reactions, precursors in the bone marrow give rise to circulating monocytes, which enter peripheral tissues, 
+mature to form macrophages, and are activated locally. In fetal life, precursors in the yolk sac and liver give rise to cells that seed tissues to generate specialized tissue-resident macrophages.
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/c8d611b1-c883-4200-951d-8f8bd525b098" width="600">
+</div>
+
+##### Natural Killer Cells
+
+Functions of natural killer (NK) cells.
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/4bb46f96-d451-4925-8d8a-e9f1ba6a6f72" width="600">
+</div>
+
+Activating and inhibitory receptors of natural killer (NK) cells.
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/ca86daa2-0721-49d0-8498-7c57f542c966" width="600">
+</div>
+
 
 ### 适应性免疫（Adaptive Immunity）=第三道屏障：
 
