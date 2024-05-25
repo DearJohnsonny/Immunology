@@ -125,3 +125,10 @@ T细胞激活所需要的相关表面受体：
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/0fd331ed-1c45-41a9-8eb1-85434719eae3" width="600">
 </div>
 
+CD4+和CD8+的联系：
+* CD4+促进CD8+的激活与成熟
+* 二者协同杀伤感染细胞：CD4+促进phagocyte自我清除，而CD8+杀伤胞质中存在病原体的细胞
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/990f5fd7-0e12-4aa6-869a-0792e113f9e8" width="400">
+</div>
