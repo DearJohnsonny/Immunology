@@ -101,18 +101,27 @@ Activating and inhibitory receptors of natural killer (NK) cells.
 首先看一下病原体入侵人体之后的两种主要模式（根据不同种类的宿主细胞而定）：
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/0ce22cc4-1afc-4e79-9b12-47ac6e889a97" width="400">
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/0ce22cc4-1afc-4e79-9b12-47ac6e889a97" width="300">
 </div>
 
 phagocyte的由CD4去刺激周围相应的被感染的细胞清除自身中存在的病原体，而CD8+细胞直接杀伤被感染的上皮细胞
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/1d738c67-6280-4856-8201-b51aacc0e615" width="600">
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/1d738c67-6280-4856-8201-b51aacc0e615" width="300">
 </div>
 
 无论是CD4+还是CD8+的细胞，IL2都是重要的刺激激活信号
 
 <div align=center>
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/6069733a-347c-4ea9-a1b1-be32e1c09d2e" width="600">
+</div>
+
+T细胞激活所需要的相关表面受体：
+* CTLA4和CD28是拮抗的
+* PD-1和PD-L1都是存在的
+* CD4和CD8之间各不相同
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/0fd331ed-1c45-41a9-8eb1-85434719eae3" width="600">
 </div>
 
