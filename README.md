@@ -145,3 +145,10 @@ CD8+杀伤受感染细胞的方式：记住穿孔素granzyme即可
 <div align=center>
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/4e2fc353-22f2-40aa-9c73-f13f7706bcf0" width="400">
 </div>
+
+抗体都是浆细胞分泌的，但是IgM不需要Th细胞辅助，而其他的都需要
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/b0cf29dd-92ab-4133-8697-711b509235ce" width="400">
+</div>
+
