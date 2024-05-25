@@ -132,3 +132,10 @@ CD4+和CD8+的联系：
 <div align=center>
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/990f5fd7-0e12-4aa6-869a-0792e113f9e8" width="400">
 </div>
+
+#### 体液免疫
+几种关键的CD4+细胞
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/4e2fc353-22f2-40aa-9c73-f13f7706bcf0" width="400">
+</div>
