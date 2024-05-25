@@ -133,6 +133,12 @@ CD4+和CD8+的联系：
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/990f5fd7-0e12-4aa6-869a-0792e113f9e8" width="400">
 </div>
 
+CD8+杀伤受感染细胞的方式：记住穿孔素granzyme即可
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/6009c7a7-7f9c-474c-97fe-6d919ea3057d" width="400">
+</div>
+
 #### 体液免疫
 几种关键的CD4+细胞
 
