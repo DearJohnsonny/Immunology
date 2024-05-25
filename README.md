@@ -97,4 +97,17 @@ Activating and inhibitory receptors of natural killer (NK) cells.
 适应性免疫主要包括T细胞介导的细胞免疫和B细胞介导的体液免疫。
 这种免疫反应能够识别和记忆特定的抗原，从而提供对该抗原的持续保护，并在第二次暴露时产生更快更有效的反应。
 
+#### 细胞免疫
+首先看一下病原体入侵人体之后的两种主要模式（根据不同种类的宿主细胞而定）：
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/0ce22cc4-1afc-4e79-9b12-47ac6e889a97" width="400">
+</div>
+
+phagocyte的由CD4去刺激周围相应的被感染的细胞清除自身中存在的病原体，而CD8+细胞直接杀伤被感染的上皮细胞
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/1d738c67-6280-4856-8201-b51aacc0e615" width="600">
+</div>
+
 
