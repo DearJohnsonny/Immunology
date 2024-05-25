@@ -110,4 +110,9 @@ phagocyte的由CD4去刺激周围相应的被感染的细胞清除自身中存�
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/1d738c67-6280-4856-8201-b51aacc0e615" width="600">
 </div>
 
+无论是CD4+还是CD8+的细胞，IL2都是重要的刺激激活信号
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/6069733a-347c-4ea9-a1b1-be32e1c09d2e" width="600">
+</div>
 
