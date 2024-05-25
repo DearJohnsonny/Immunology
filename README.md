@@ -152,3 +152,13 @@ CD8+杀伤受感染细胞的方式：记住穿孔素granzyme即可
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/b0cf29dd-92ab-4133-8697-711b509235ce" width="400">
 </div>
 
+B细胞激活与成熟的全过程：
+* 也是共刺激信号，但是与T细胞不同。T细胞是TCR第一信号，加上CD28或者CTLA4作为第二信号。而B细胞第一信号是接触病原体，第二信号基本就是Th细胞的辅助
+* B细胞和Tf细胞的接触依赖CD40
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/9d1b3141-9678-4d8b-a314-e244879bf467" width="600">
+</div>
+
+
+
