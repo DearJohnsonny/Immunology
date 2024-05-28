@@ -166,6 +166,12 @@ B细胞激活与成熟的全过程：
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/9d1b3141-9678-4d8b-a314-e244879bf467" width="600">
 </div>
 
+##### B细胞激活的下游途径
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/14a37c3c-0b04-4359-80f0-a1fba85aa3e9" width="600">
+</div>
+
 ##### 各类抗体及其作用
 
 <div align=center>
