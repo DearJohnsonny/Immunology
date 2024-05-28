@@ -214,4 +214,9 @@ C5之后的通路就比较简单了
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/a5f4f788-bc30-4110-b44e-0428bfdd43a4" width="600">
 </div>
 
+举俩最出名的例子：CTLA4和PD1
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/e5f5c8d8-8bfb-4530-814c-b5a9eab416c7" width="600">
+</div>
 
