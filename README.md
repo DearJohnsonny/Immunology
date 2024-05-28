@@ -166,5 +166,23 @@ B细胞激活与成熟的全过程：
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/9d1b3141-9678-4d8b-a314-e244879bf467" width="600">
 </div>
 
+## 其他免疫相关系统
+### 补体系统
+* 替代途径
+* 经典途径
+* 凝集素途径
+
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/baa90592-2606-486e-b5cd-25a8492e7b1b" width="600">
+</div>
+
+下图是各种相关补体蛋白在胞内的含量，单位都是μg/mL级的
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/8f763a91-c884-4e76-a7ee-cbe397ce9621" width="600">
+</div>
+
+
 
 
