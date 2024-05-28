@@ -166,6 +166,12 @@ B细胞激活与成熟的全过程：
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/9d1b3141-9678-4d8b-a314-e244879bf467" width="600">
 </div>
 
+##### 各类抗体及其作用
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/ec145c18-5a49-4b90-b9aa-2e52ebc9b1c8" width="600">
+</div>
+
 ## 其他免疫相关系统
 ### 补体系统
 * 替代途径
