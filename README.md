@@ -195,4 +195,14 @@ C5之后的通路就比较简单了
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/9cf5c279-918c-4f74-afd9-a408beca47ab" width="600">
 </div>
 
+### 免疫逃逸
+
+主要是三个途径：
+* 抗原的突变（这个比较常见）
+* 抑制补体的激活
+* 通过透明质酸保护自己
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/6c311a79-1ed8-40b0-bfe3-0ae5d4ed2433" width="600">
+</div>
 
