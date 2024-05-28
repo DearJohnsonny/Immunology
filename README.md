@@ -189,6 +189,10 @@ C5之后的通路就比较简单了
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/db121128-b6ae-4f54-a009-561311503d58" width="600">
 </div>
 
+#### 补体系统的其他作用
 
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/9cf5c279-918c-4f74-afd9-a408beca47ab" width="600">
+</div>
 
 
