@@ -220,3 +220,8 @@ C5之后的通路就比较简单了
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/e5f5c8d8-8bfb-4530-814c-b5a9eab416c7" width="600">
 </div>
 
+### ADCC效应(抗体依赖的细胞毒效应)
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/c3309eb2-4033-4cbc-a489-04f0642e80a1" width="600">
+</div>
