@@ -206,3 +206,12 @@ C5之后的通路就比较简单了
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/6c311a79-1ed8-40b0-bfe3-0ae5d4ed2433" width="600">
 </div>
 
+### T细胞失能 Anergy
+
+识别病原体的T细胞没收到共刺激信号时，会出现anergy的现象
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/a5f4f788-bc30-4110-b44e-0428bfdd43a4" width="600">
+</div>
+
+
