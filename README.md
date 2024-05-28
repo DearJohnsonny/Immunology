@@ -183,6 +183,12 @@ B细胞激活与成熟的全过程：
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/8f763a91-c884-4e76-a7ee-cbe397ce9621" width="600">
 </div>
 
+C5之后的通路就比较简单了
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/db121128-b6ae-4f54-a009-561311503d58" width="600">
+</div>
+
 
 
 
