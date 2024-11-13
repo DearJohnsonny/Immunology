@@ -187,6 +187,12 @@ CD8+杀伤受感染细胞的方式：记住穿孔素granzyme即可
 <img src="https://github.com/DearJohnsonny/Immunology/assets/111955215/6009c7a7-7f9c-474c-97fe-6d919ea3057d" width="400">
 </div>
 
+MHC的一些细节如下图：
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/69e53c4c-2920-4eeb-a858-6ebd8bf02faa" width="600">
+</div>
+
 #### 体液免疫
 几种关键的CD4+细胞
 
