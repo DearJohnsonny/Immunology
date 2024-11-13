@@ -1,4 +1,10 @@
 # Basic theory
+## 抗体结构
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/cba483ba-608c-435d-9bfc-a3de52463c09" width="600">
+</div>
+
 ## 免疫分类
 
 <div align=center>
