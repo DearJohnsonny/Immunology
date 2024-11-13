@@ -6,6 +6,12 @@
 <img src="https://github.com/user-attachments/assets/37ff1d11-4e53-4af0-9ed2-4687b1ed04f4" width="600">
 </div>
 
+1型免疫反应历来是CAR-T细胞疗法等癌症疗法的目标，与之不同的是，2型免疫反应是用来对抗寄生虫等免疫威胁的。在此之前，人们一直认为2型免疫因子对抗击癌症没有作用，甚至会促进肿瘤生长。但是，在Tang lab的研究中用于构建细胞图谱的数据表明并非如此。研究团队注意到，2型免疫因子的存在与ALL八年无复发缓解之间存在统计学意义上的显著相关性。下图为1型免疫反应概括：
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/f7991e8e-878d-4e02-a3cf-dc119121f551" width="600">
+</div>
+
 ## 人体的三道免疫屏障
 是指免疫系统的三种主要防御方式，分别是先天免疫、适应性免疫和被动免疫。
 
