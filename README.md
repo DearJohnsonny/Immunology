@@ -6,6 +6,13 @@
 <img src="https://github.com/user-attachments/assets/37ff1d11-4e53-4af0-9ed2-4687b1ed04f4" width="600">
 </div>
 
+3种主要类型的固有和适应性细胞介导的效应免疫
+
+* 1型效应免疫由分泌 IFN-γ的T-bet+CD4+ TH1细胞和固有淋巴细胞1组（ILC1s）以及 T-bet+ Eomes+的CD8+ TC1细胞和NK细胞组成。
+* 2型效应免疫由GATA-3+CD4+ TH2细胞，CD8+ TC2细胞和ILC2s组成，他们分泌IL-4，IL-5，IL-13。
+* 3型效应免疫由 RORγt（RORC）+CD4+的TH17细胞、CD8+的TC17细胞和ILC3s 组成，他们分泌IL-17、IL-22或均可分泌。
+* CILP，常见的固有性淋巴前体；CLp，常见的淋巴前体；LN，淋巴结；LTi，淋巴组织诱导剂；PP，集合淋巴结补丁；Tp，始祖T细胞。
+
 protozoa：原虫
 
 helminths：蠕虫
