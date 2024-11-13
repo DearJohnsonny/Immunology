@@ -32,6 +32,12 @@ venoms：毒液
 
 ### 2型免疫反应
 
+### 3型免疫反应
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/0a04e2d0-e664-4734-bda3-2f0df3f58a68" width="600">
+</div>
+
 ## CD4+细胞的深入理解
 CD4+细胞，又称辅助T细胞，可以分为Teff和Treg，更细分领域依据**转录因子**和**细胞因子**
 
