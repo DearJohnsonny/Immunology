@@ -19,6 +19,15 @@ venoms：毒液
 
 ### 2型免疫反应
 
+## CD4+细胞的深入理解
+CD4+细胞，又称辅助T细胞，可以分为Teff和Treg，更细分领域依据**转录因子**和**细胞因子**
+
+而非常重要的一类免疫Th1和二类免疫Th2的转录因子分类是GATA3和T-bet
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/96c148f0-ca27-431f-906b-73b66d46cc2d" width="600">
+</div>
+
 ## 人体的三道免疫屏障
 是指免疫系统的三种主要防御方式，分别是先天免疫、适应性免疫和被动免疫。
 
