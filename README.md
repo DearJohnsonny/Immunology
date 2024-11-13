@@ -1,4 +1,11 @@
 # Basic theory
+## 免疫分类
+分为type one immunity and type two immunity
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/37ff1d11-4e53-4af0-9ed2-4687b1ed04f4" width="600">
+</div>
+
 ## 人体的三道免疫屏障
 是指免疫系统的三种主要防御方式，分别是先天免疫、适应性免疫和被动免疫。
 
