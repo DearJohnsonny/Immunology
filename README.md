@@ -19,6 +19,13 @@ Exp Mol Med 56, 32–39 (2024). https://doi.org/10.1038/s12276-023-01136-4
 
 The T-cell receptor complex with TCR-α and TCR-β chains (top), ζ-chain (CD247) accessory molecules (bottom) and CD3 (represented by CD3γ, CD3δ and two CD3ε).
 
+### Car-T
+#### 基础知识扫盲
+
+https://lapipette.com/CAR-T
+
+#### 制备细节
+
 ### 抗体结构
 
 <div align=center>
