@@ -7,6 +7,10 @@
 <img src="https://github.com/user-attachments/assets/f78a62d3-ad4d-429a-b322-5cefdfc502f6" width="600">
 </div>
 
+Upon interaction with 4-1BBL on antigen-presenting cells (APC), 4-1BB signaling begins by recruiting TRAF1 and TRAF2 to the TRAF-binding motif located in the cytoplasmic tail of 4-1BB, along with cIAP1 and cIAP2, forming the 4-1BB signaling complex. TRAF1 and TRAF2 lead to ERK1/2 activation through TRAF1 stimulation of ERK1/2 activity. The activation of ERK1/2 also induces the phosphorylation of the proapoptotic protein Bim. This phosphorylation event facilitates the proteasomal degradation of Bim, which, in turn, promotes T-cell survival. In the context of 4-1BB-induced NF-κB activation, the TRAF2-cIAP complex initiates the NF-κB pathway. The IKK complex comprises three subunits: two kinases, IKKα and IKKβ, along with the regulatory subunit NF-κB essential modulator (NEMO; also known as IKKγ). NF-κB induces the transcription of BCL-XL, BCL-2, and c-FLIP and stimulates the expression of IL-2, IL-4, and IFN-gamma, promoting the survival and cytotoxic activity of T cells. Additionally, TRAF2 recruitment fosters the activation of the JNK and p38 MAPK pathways. JNK translocates into the nucleus, where it interacts with the transcription factors JUN and ATF2, leading to the production of IL-2, IL-4, and IFN-gamma by T cells. TRAF TNF receptor-associated factor, cIAP cellular inhibitor of apoptosis protein, LUBAC linear ubiquitin chain assembly complex, NF-κB nuclear factor-κB, NEMO NF-κB essential modulator, IKK IκB kinase, JNK JUN N-terminal kinase.
+
+Exp Mol Med 56, 32–39 (2024). https://doi.org/10.1038/s12276-023-01136-4
+
 ### 抗体结构
 
 <div align=center>
