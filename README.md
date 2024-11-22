@@ -14,7 +14,7 @@ Exp Mol Med 56, 32–39 (2024). https://doi.org/10.1038/s12276-023-01136-4
 ### TCR结构
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/72ad4dbe-4e60-43ae-b7bf-da2b633d14a1" width="600">
+<img src="https://github.com/user-attachments/assets/72ad4dbe-4e60-43ae-b7bf-da2b633d14a1" width="400">
 </div>
 
 The T-cell receptor complex with TCR-α and TCR-β chains (top), ζ-chain (CD247) accessory molecules (bottom) and CD3 (represented by CD3γ, CD3δ and two CD3ε).
