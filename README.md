@@ -18,6 +18,7 @@ DZ:
 LZ:
 * contains: GC B cells, FDCs and infiltrating naive B cells 还有非常重要的Tfh cells
 * Tfh细胞在高亲和力B细胞的阳性选择中起着根本性的作用，推动它们的增殖和分化进入PC命运
+* 总之，抗原和Tfh细胞的存在以及其驻留B细胞的活化表型这个现象，表明LZ是体内筛选高亲和力SHM变异体的场所
 
 
 
