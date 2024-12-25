@@ -14,8 +14,10 @@
 DZ:
 * 高分化的B细胞（也叫中心母细胞，高表达CXCR4这种chemokine）紧密成簇
 * DZ基质由表达CXCL12的网状细胞(CRC)的微妙网状结构组成，该网状细胞CRC是CXCL12趋化因子(CXCR4的配体)的来源，CXCL12会使DZ的B细胞远离FDC
-* DZ B cells have high expression of AID and the error-prone DNA polymerase eta (Polη, which introduces point mutations into DNA when repairing AID-induced lesions) ，因此这表明DZ是免疫球蛋白SHM的位点，因此也是产生与抗原有不同亲和力的克隆变异体的地方（突变产生多样性）
-
+* DZ B cells have high expression of AID and the error-prone DNA polymerase eta (Polη, which introduces point mutations into DNA when repairing AID-induced lesions) ，因此这表明DZ是免疫球蛋白SHM（体细胞高突变）的位点，因此也是产生与抗原有不同亲和力的克隆变异体的地方
+LZ:
+* contains: GC B cells, FDCs and infiltrating naive B cells 还有非常重要的Tfh cells
+* Tfh细胞在高亲和力B细胞的阳性选择中起着根本性的作用，推动它们的增殖和分化进入PC命运
 
 
 
