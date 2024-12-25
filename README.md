@@ -27,8 +27,8 @@ GC B cells migrate bi-directionally between these two zones in order to undergo 
 <img src="https://github.com/user-attachments/assets/3d4ff10e-c00a-4ff8-b384-8970b08f5e32" width="800">
 </div>
 
-才感染或才接种疫苗时，B细胞激活开始出现生发中心。成熟后演进有右图这种GC
-
+* 才感染或才接种疫苗时，B细胞激活开始出现生发中心。成熟后演进有右图这种GC
+* Note that all GC B and T cells express BCL6.
 ### activation-induced cytidine deaminase (AID)激活诱导的胞苷脱氨酶
 ### somatic hypermutation (SHM)体细胞高突变
 
