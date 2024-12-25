@@ -6,6 +6,10 @@
 * 在淋巴结和脾脏中，最靠近T细胞区的GC的极点被称为暗区(dark zone, DZ)，在暗区FDC(follicular dendritic cells)基本上不存在
 * 光区(light zone, LZ)：位于T区远端的极点，最接近于LN的囊腔或脾脏的边缘区，并且富含FDC(follicular dendritic cells)。在科学史上，LZ 在组织学上使用传统的DNA染色显得“更轻”，这是因为淋巴细胞核在更丰富的基质网络中分布更稀疏
 
+<div align=center>
+<img src="https://github.com/user-attachments/assets/8f89e6ac-3b34-4ba0-964b-668c1cdee112" width="800">
+</div>
+
 #### 光与暗 light and dark
 DZ:
 * 高分化的B细胞（也叫中心母细胞，高表达CXCR4这种chemokine）紧密成簇
@@ -13,9 +17,7 @@ DZ:
 * DZ B cells have high expression of AID and the error-prone DNA polymerase eta (Polη, which introduces point mutations into DNA when repairing AID-induced lesions) ，因此这表明DZ是免疫球蛋白SHM的位点，因此也是产生与抗原有不同亲和力的克隆变异体的地方（突变产生多样性）
 
 
-<div align=center>
-<img src="https://github.com/user-attachments/assets/8f89e6ac-3b34-4ba0-964b-668c1cdee112" width="800">
-</div>
+
 
 ### 4-1BB (CD137) & 4-1BBL(CD137L)
 
