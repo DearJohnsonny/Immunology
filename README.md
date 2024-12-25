@@ -93,7 +93,7 @@ CD4+细胞，又称辅助T细胞，可以分为Teff和Treg，更细分领域依�
 而非常重要的一类免疫Th1和二类免疫Th2的转录因子分类是GATA3和T-bet
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/96c148f0-ca27-431f-906b-73b66d46cc2d" width="600">
+<img src="https://github.com/user-attachments/assets/96c148f0-ca27-431f-906b-73b66d46cc2d" width="1200">
 </div>
 
 ## 人体的三道免疫屏障
