@@ -21,7 +21,7 @@ LZ:
 * Tfh细胞在高亲和力B细胞的阳性选择中起着根本性的作用，推动它们的增殖和分化进入PC命运
 * 总之，抗原和Tfh细胞的存在以及其驻留B细胞的活化表型这个现象，表明LZ是体内筛选高亲和力SHM变异体的场所
 
-
+GC B cells migrate bi-directionally between these two zones in order to undergo iterative (迭代) rounds of SHM and selection to increase the overall affinity of GC B cells for antigen
 
 ### 4-1BB (CD137) & 4-1BBL(CD137L)
 
