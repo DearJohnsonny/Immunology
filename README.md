@@ -1,6 +1,5 @@
 # Basic theory
 ## 一些基础知识
-
 ### 关于Germinal Center生发中心
 成熟的GC被分成两个区域。
 * 在淋巴结和脾脏中，最靠近T细胞区的GC的极点被称为暗区(dark zone, DZ)，在暗区FDC(follicular dendritic cells)基本上不存在
@@ -22,6 +21,16 @@ LZ:
 * 总之，抗原和Tfh细胞的存在以及其驻留B细胞的活化表型这个现象，表明LZ是体内筛选高亲和力SHM变异体的场所
 
 GC B cells migrate bi-directionally between these two zones in order to undergo iterative (迭代) rounds of SHM and selection to increase the overall affinity of GC B cells for antigen
+
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/3d4ff10e-c00a-4ff8-b384-8970b08f5e32" width="800">
+</div>
+
+才感染或才接种疫苗时，B细胞激活开始出现生发中心。成熟后演进有右图这种GC
+
+### activation-induced cytidine deaminase (AID)激活诱导的胞苷脱氨酶
+### somatic hypermutation (SHM)体细胞高突变
 
 ### 4-1BB (CD137) & 4-1BBL(CD137L)
 
