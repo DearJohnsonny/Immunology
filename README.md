@@ -29,8 +29,13 @@ GC B cells migrate bi-directionally between these two zones in order to undergo 
 
 * 才感染或才接种疫苗时，B细胞激活开始出现生发中心。成熟后演进有右图这种GC
 * Note that all GC B and T cells express BCL6.
-### activation-induced cytidine deaminase (AID)激活诱导的胞苷脱氨酶
-### somatic hypermutation (SHM)体细胞高突变
+### activation-induced cytidine deaminase (AID)激活诱导的胞苷脱氨酶与somatic hypermutation (SHM)体细胞高突变
+
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/f54bb680-2298-44b9-96ea-767e1368ba54" width="800">
+</div>
+
 
 ### 4-1BB (CD137) & 4-1BBL(CD137L)
 
