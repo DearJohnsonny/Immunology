@@ -2,7 +2,7 @@
 ## 一些基础知识
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/8f89e6ac-3b34-4ba0-964b-668c1cdee112" width="600">
+<img src="https://github.com/user-attachments/assets/8f89e6ac-3b34-4ba0-964b-668c1cdee112" width="800">
 </div>
 
 ### 4-1BB (CD137) & 4-1BBL(CD137L)
