@@ -5,7 +5,7 @@
 * TCR对抗原肽和MHC具有双重识别，形成T细胞在抗原识别和发挥效应功能中的MHC限制性
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/22fbaac3-e591-43d6-b29d-07f1596de261" width="800">
+<img src="https://github.com/user-attachments/assets/22fbaac3-e591-43d6-b29d-07f1596de261" width="600">
 </div>
 
 ### 关于Germinal Center生发中心
