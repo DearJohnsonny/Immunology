@@ -1,5 +1,13 @@
 # Basic theory
 ## 一些基础知识
+### 关于MHC和TCR
+* HLA具有多态性——TCR也会重排，产生多态性
+* TCR对抗原肽和MHC具有双重识别，形成T细胞在抗原识别和发挥效应功能中的MHC限制性
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/22fbaac3-e591-43d6-b29d-07f1596de261" width="800">
+</div>
+
 ### 关于Germinal Center生发中心
 成熟的GC被分成两个区域。
 * 在淋巴结和脾脏中，最靠近T细胞区的GC的极点被称为暗区(dark zone, DZ)，在暗区FDC(follicular dendritic cells)基本上不存在
