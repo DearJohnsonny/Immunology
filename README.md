@@ -2,7 +2,7 @@
 ## 一些基础知识
 ### 关于MHC和TCR
 * HLA具有多态性——TCR也会重排，产生多态性
-* TCR对抗原肽和MHC具有双重识别，形成T细胞在抗原识别和发挥效应功能中的MHC限制性
+* TCR对抗原肽和MHC具有双重识别，形成T细胞在抗原识别和发挥效应功能中的MHC限制性：αβT细胞识别抗原时对所表达MHC分子的依赖性,即TCR在特异性识别APC所提呈的抗原多肽过程中,必须同时识别与抗原多肽形成复合物的MHC分子。
 
 <div align=center>
 <img src="https://github.com/user-attachments/assets/22fbaac3-e591-43d6-b29d-07f1596de261" width="600">
