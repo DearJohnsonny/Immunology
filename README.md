@@ -143,6 +143,20 @@ CD4+细胞，又称辅助T细胞，可以分为Teff和Treg，更细分领域依�
 * The innate immune system does not react against healthy cells
 * 主要是用来对抗microbe infection
 
+#### γδ T cells
+
+* γδT细胞占T细胞群体的0.5%~5%，其TCR由γ链和δ链组成，主要存在于上皮和粘膜组织，比如皮肤、肠道等。
+* γδT细胞数量虽少，但功能强大且全面，在免疫治疗方面更是突出。
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/6263912c-77f4-4585-aa23-94b7f308e512" width="600">
+</div>
+
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/917f62de-8103-47b1-b8ca-a2c4b0d6baa0" width="600">
+</div>
+
 #### innate immunity的受体
 
 <div align=center>
